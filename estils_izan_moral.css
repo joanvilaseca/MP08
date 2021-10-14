@@ -1,0 +1,25 @@
+
+header {
+    background-color: #0000ee;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+
+section {
+    background-color: #aaaaaa;
+    padding: 20px;
+}
+
+h2 {
+    color: red;
+}
+
+
+footer {
+    background-color: #0000ee;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
