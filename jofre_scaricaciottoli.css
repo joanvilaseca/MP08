@@ -1,0 +1,23 @@
+header {
+  background-color: #0000ee;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+
+section {
+  background-color: #aaaaaa;
+  padding: 20px;
+}
+
+section h2 {
+  color: rgb(78, 40, 245);
+  font-weight: bold;
+}
+
+footer {
+  background-color: #0000ee;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
