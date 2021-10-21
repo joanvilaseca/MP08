@@ -10,10 +10,10 @@ section {
     padding: 20px;
 }
 
-h2 {
+section h2 {
     color: darkgoldenrod;
     text-align: center;
-
+    font-family: "Arial Rounded MT Bold";
 }
 
 footer {
